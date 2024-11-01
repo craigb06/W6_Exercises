@@ -1,0 +1,15 @@
+# Experiment with how random functions work
+rand_num = random.randint(3, 35)
+rand_float = random.random
+rand_choice = random.choice(fruits)
+rand_fruits = random.choices(fruits)
+rand_samp = random.sample(fruits)
+rand_shuff = random.shuffle(fruits)
+
+# Diplay the results
+print(rand_num)
+print(rand_float)
+print(rand_choice)
+print(rand_fruits)
+print(rand_samp)
+print(rand_shuff)
