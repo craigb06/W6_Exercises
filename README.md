@@ -1,6 +1,6 @@
 # W6_Exercises
 
-Wweek 6 Workbook
+Week 6 Workbook
 
   1.Exploring Functions
 
